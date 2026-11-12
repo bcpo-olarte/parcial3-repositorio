@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c46e57a-c048-4e4c-9e27-4672bdc44680" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/restaurante/src/Bebidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/DetallePedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/ESTADOPEDIDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/EntregaSegura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/IServicioDomicilio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/PedidoDomicilio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/PedidoMesa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/PlatoFuerte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/Postres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/RapidoExpress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/Restaurante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/TIPOBEBIDA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restaurante/src/TIPOPREPARACION.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c46e57a-c048-4e4c-9e27-4672bdc44680" name="Changes" comment="primer commit de todas las clases de el parcial numero 3 sube brayan camilo pan olarte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +33,6 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "estudiante2JEFFERSONVALENCIA",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Brayan Camilo/Downloads/parcial3-repositorio/restaurante/src/Main.java"
   }
@@ -69,7 +52,20 @@
       <option name="presentableId" value="Default" />
       <updated>1794448755387</updated>
     </task>
+    <task id="LOCAL-00001" summary="primer commit de todas las clases de el parcial numero 3 sube brayan camilo pan olarte">
+      <option name="closed" value="true" />
+      <created>1794524621394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794524621394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit de todas las clases de el parcial numero 3 sube brayan camilo pan olarte" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit de todas las clases de el parcial numero 3 sube brayan camilo pan olarte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
